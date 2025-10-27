@@ -1,0 +1,9 @@
+# Requirements for train_house_model.py and train_iris_lr.py
+mlflow
+pandas
+numpy
+scikit-learn
+joblib
+cloudpickle
+jupyter
+notebook
