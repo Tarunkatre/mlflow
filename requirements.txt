@@ -3,7 +3,6 @@ mlflow
 pandas
 numpy
 scikit-learn
-joblib
-cloudpickle
-jupyter
-notebook
+keras
+tensorflow
+hyperopt
